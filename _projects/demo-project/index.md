@@ -10,7 +10,7 @@ skills:
   - Embedded C++
   - Python
   - Sensors
-main-image: /project1.jpg
+main-image: sentryx.jpg
 ---
 
 ## Overview
