@@ -10,7 +10,7 @@ skills:
   - Embedded C++
   - Python
   - Sensors
-main-image:ChatGPT Image Jan 12, 2026, 10_28_26 AM.png
+main-image: sentryx.png
 ---
 
 ## Overview
