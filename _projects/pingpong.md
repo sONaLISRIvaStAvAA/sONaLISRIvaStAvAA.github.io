@@ -12,7 +12,7 @@ skills:
   - Tinkercad
   - I2C LCD
   - Embedded Systems
-main-image: /assets/images/profile-image/pinpong.png
+main-image: /assets/images/profile-image/pingpong.png
 ---
 
 ## Overview
